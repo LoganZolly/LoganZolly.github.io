@@ -7,13 +7,18 @@ body {
     display:flex;
     padding:15px;
     margin:10px;
+    margin-bottom: 30px;
     background:saddlebrown;
+    border-radius:5px;
+    box-shadow:5px 10px green;
 }
 
 .assignment img
 {
     Width:200px;
-    padding:10px;
+    border: 2px darkgreen;
+    margin-right: 20px;
+    border-radius: 5px;
 }
 
 h1{
@@ -25,4 +30,5 @@ h2{
 }
 a {
     text-decoration:none;
+    color: white;
 }
